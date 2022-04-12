@@ -27,7 +27,7 @@ __all__ = (
     "Configuration", "ConfigurationError", "configure_logging",
     "format_config", "print_config", "import_string", "ImportStringError")
 
-__version__ = '0.6.0'
+__version__ = '0.7.0'
 
 
 class ConfigurationError(ValueError):

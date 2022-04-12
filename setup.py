@@ -50,6 +50,6 @@ setup(
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.10',
     ],
     zip_safe=False)
